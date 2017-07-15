@@ -76,6 +76,10 @@
         "source": "C:\\Users\\BHAWAR\\.android\\build-cache\\250da69b6d7db083f87d84fb514e8f6ad7d4e8e4\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
+        "merged": "C:\\Users\\BHAWAR\\Documents\\GitHub\\BillBookOnline\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_bill_template_dailog_alert.xml",
+        "source": "C:\\Users\\BHAWAR\\Documents\\GitHub\\BillBookOnline\\app\\src\\main\\res\\layout\\content_bill_template_dailog_alert.xml"
+    },
+    {
         "merged": "C:\\Users\\BHAWAR\\Documents\\GitHub\\BillBookOnline\\app\\build\\intermediates\\res\\merged\\debug\\layout\\create_sub_user.xml",
         "source": "C:\\Users\\BHAWAR\\Documents\\GitHub\\BillBookOnline\\app\\src\\main\\res\\layout\\create_sub_user.xml"
     },
