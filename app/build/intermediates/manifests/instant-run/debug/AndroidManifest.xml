@@ -9,7 +9,6 @@
         android:targetSdkVersion="25" />
 
     <application
-        android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -53,8 +52,19 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="bangalore.bms.billbookonline.Create_subuser" />
+        <activity android:name="bangalore.bms.billbookonline.Create_subuser" >
+            <intent-filter>
+                <action android:name="android.intent.action.IN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity android:name="bangalore.bms.billbookonline.Generate_bill" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="bangalore.bms.billbookonline.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

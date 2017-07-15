@@ -2,139 +2,157 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_e6a3d8b0452c50adffe163ae794b61d77638e8f1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_2526a733a28c8a0417d4591658b950855bf05339.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_f129e312604121d04334db16f840d76f875dbabd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\BHAWAR\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_3a193744ee18370c9a53d10c237de314a74d63be.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_f17e8487f37c7be0f0acfe8f605321699e3b4b3d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
-        <dex dex="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_e3a62116a6a419d493567a6dc66279d51436b80a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_9005401fd69c3bba09a398b641e38fd0858ecf1d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
-        <dex dex="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_a0aabbc3b8c941c5ad9db55fc1d70811bfb49eb4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_d35d4b8bcd7bcc704852400a716f08f1b41634cf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
-        <dex dex="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_1759d863c99918efab188a4ec0ba2c3abf6a38d2.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\Users\BHAWAR\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_e16231202170fecc72b31db6d921ec267ed067fc.jar" />
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_e16231202170fecc72b31db6d921ec267ed067fc\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\BHAWAR\.android\build-cache\4e26a262f6616dc19a44b747f14b164d3f30ede3\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_8e07c874055257663db771bad83c36769e8b5cc8.jar" />
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_321b3d10ffd79919e45f25712f21adf0f61c6717\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_7c3a2bfb1bb820861c953a49ba0ad55e9443c009.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_9d98e3f8c0ed8ca3303c0f4cd24de5b6e7456bb8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\BHAWAR\.android\build-cache\c61f12e3bc6ce92f9412cc0a1a47c63ae52a5e81\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="C:\Users\BHAWAR\Desktop\BillBookOnline\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_e14f9f31d6f91f38bb382808316c77bdec03a3b6.jar" />
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff98d3fc3da05f1da35ceccdacf42dc769f1495e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BHAWAR\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_3a193744ee18370c9a53d10c237de314a74d63be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BHAWAR\.android\build-cache\c5b65e7625753d43a52c33b16edf700304893495\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8a292143a125a958223c66999d919864a9675ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BHAWAR\.android\build-cache\439255a27598a3bbc3440ed77e0f9e8a381557d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03e04842d43a7ad577ce8da27923a0cf856c5fef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BHAWAR\.android\build-cache\ff1492220581b93a642575455d5d4d20686bc34a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc8dc332265047236ea2459918172b165dfcc2fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BHAWAR\.android\build-cache\4673618bca985558b1f704855edd1f55d53fce63\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e72ad668264304f2204983a5a6de580f4ad75f40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BHAWAR\.android\build-cache\0018053d7defdd22098a2ea263bdfaf0c98afb2c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88ce4015d471be9862c8189764aab9fabf4943e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BHAWAR\.android\build-cache\7fa344988e4c9530fadf0cfc88309e4887ff7ce0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a76db77810d3bc00b58ed329fa902405ad7f01f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="96cb62049f1030ff3fc15b6200698fd39b769598">
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1abdf373d365c377cb7bf00b1e8ec0c959686638\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BHAWAR\.android\build-cache\4b7abf190b2112fbc5cfbeb5a77d641a692a5376\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3b8a4fceeed5f4a44d18bc4af86b8bd850ca9b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_73d8bea886cd38805c4c01509478d947b55327a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BHAWAR\.android\build-cache\f237ae47a1c0b42eca28a26cae3b5b584428fe26\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e1d33117c168d9ca4c14f2958ec94076bbb9eba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BHAWAR\.android\build-cache\91b24d1b18a1786da3fb4799c83f9b4e3e8f6b0c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7f128bcdefefb8c419c643efb0fd15319a01163\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BHAWAR\.android\build-cache\754df3af0a744bf47ba1b72b0a8ee4bb9bd38380\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7314e8c9f86c9ba5b823a9321d342e4b98261f0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BHAWAR\.android\build-cache\250da69b6d7db083f87d84fb514e8f6ad7d4e8e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\BHAWAR\Documents\GitHub\BillBookOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_38ccf70e2b9b9e437de9c9a6bf55285dd4f1c83e\classes.dex" />
     </item>
 
 </items>
