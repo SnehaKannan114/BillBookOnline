@@ -2858,7 +2858,7 @@ containing a value of this type.
         public static final int switch_thumb_material_light=0x7f0c006b;
         public static final int switch_thumb_normal_material_dark=0x7f0c004e;
         public static final int switch_thumb_normal_material_light=0x7f0c004f;
-        public static final int textColorOnGreyBackground=0x7f0c0050;
+        public static final int textColorBlack =0x7f0c0050;
         public static final int textColorPrimary=0x7f0c0051;
         public static final int windowBackground=0x7f0c0052;
     }

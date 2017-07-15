@@ -12,7 +12,7 @@
         android:id="@+id/textView"
         android:fontFamily="sans-serif"
         android:textAllCaps="true"
-        android:textColor="@color/textColorOnGreyBackground"
+        android:textColor="@color/textColorBlack"
         android:background="@color/backgroundLogin"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -54,7 +54,7 @@
             <TextView
                 android:id="@+id/textView3"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="8dp"
@@ -67,7 +67,7 @@
             <EditText
                 android:id="@+id/templateName"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="8dp"
@@ -84,7 +84,7 @@
             <TextView
                 android:id="@+id/textView4"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="8dp"
@@ -97,7 +97,7 @@
             <EditText
                 android:id="@+id/billNumberFormatInput"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="8dp"
@@ -114,7 +114,7 @@
             <TextView
                 android:id="@+id/textView5"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="8dp"
@@ -127,7 +127,7 @@
             <EditText
                 android:id="@+id/billDateFormatInput"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="6dp"
@@ -144,7 +144,7 @@
             <TextView
                 android:id="@+id/textView6"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="8dp"
@@ -181,7 +181,7 @@
                     <RadioButton
                         android:id="@+id/radioButton1"
                         android:fontFamily="sans-serif"
-                        android:textColor="@color/textColorOnGreyBackground"
+                        android:textColor="@color/textColorBlack"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="8dp"
@@ -197,7 +197,7 @@
                     <RadioButton
                         android:id="@+id/radioButton2"
                         android:fontFamily="sans-serif"
-                        android:textColor="@color/textColorOnGreyBackground"
+                        android:textColor="@color/textColorBlack"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="8dp"
@@ -213,7 +213,7 @@
                     <RadioButton
                         android:id="@+id/radioButton3"
                         android:fontFamily="sans-serif"
-                        android:textColor="@color/textColorOnGreyBackground"
+                        android:textColor="@color/textColorBlack"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="8dp"
@@ -229,7 +229,7 @@
                     <RadioButton
                         android:id="@+id/radioButton4"
                         android:fontFamily="sans-serif"
-                        android:textColor="@color/textColorOnGreyBackground"
+                        android:textColor="@color/textColorBlack"
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="8dp"
@@ -252,7 +252,7 @@
             <TextView
                 android:id="@+id/textView7"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="8dp"
@@ -265,7 +265,7 @@
             <EditText
                 android:id="@+id/supplierRefNoInput"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="8dp"
@@ -282,7 +282,7 @@
             <TextView
                 android:id="@+id/textView8"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="8dp"
@@ -295,7 +295,7 @@
             <EditText
                 android:id="@+id/buyerOrderNoInput"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="8dp"
@@ -312,7 +312,7 @@
             <TextView
                 android:id="@+id/textView9"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:text="Terms of Delivery"
@@ -330,7 +330,7 @@
             <EditText
                 android:id="@+id/termsOfDeliveryInput"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:ems="10"
@@ -348,7 +348,7 @@
             <TextView
                 android:id="@+id/textView10"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:text="Service Sector"
@@ -366,7 +366,7 @@
             <Spinner
                 android:id="@+id/spinnerServiceSectorInput"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
@@ -381,7 +381,7 @@
             <TextView
                 android:id="@+id/textView11"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:text="Service Type / Package"
@@ -398,7 +398,7 @@
             <Spinner
                 android:id="@+id/spinnerServiceTypeInput"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
@@ -411,7 +411,7 @@
             <TextView
                 android:id="@+id/textView2"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="VAT to be added"
@@ -441,7 +441,7 @@
                     <RadioButton
                         android:id="@+id/radioButton5"
                         android:fontFamily="sans-serif"
-                        android:textColor="@color/textColorOnGreyBackground"
+                        android:textColor="@color/textColorBlack"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="8dp"
@@ -457,7 +457,7 @@
                     <RadioButton
                         android:id="@+id/radioButton"
                         android:fontFamily="sans-serif"
-                        android:textColor="@color/textColorOnGreyBackground"
+                        android:textColor="@color/textColorBlack"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
@@ -478,7 +478,7 @@
             <TextView
                 android:id="@+id/textView12"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -491,7 +491,7 @@
             <EditText
                 android:id="@+id/discountInput"
                 android:fontFamily="sans-serif"
-                android:textColor="@color/textColorOnGreyBackground"
+                android:textColor="@color/textColorBlack"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:inputType="numberDecimal"

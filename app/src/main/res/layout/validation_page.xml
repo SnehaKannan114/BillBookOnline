@@ -12,7 +12,7 @@
     android:layout_marginTop="8dp"
     android:layout_marginLeft="8dp"
     android:layout_marginRight="8dp"
-    android:textColor="@color/textColorOnGreyBackground"
+    android:textColor="@color/textColorBlack"
     android:background="@color/backgroundLogin"
     android:fontFamily="sans-serif"
     android:text="Validate using OTP"
@@ -30,7 +30,7 @@
         android:textAlignment="center"
         android:text="OTP is sent to the registered email"
         android:fontFamily="sans-serif"
-        android:textColor="@color/textColorOnGreyBackground"
+        android:textColor="@color/textColorBlack"
         />
     <TextView
         android:layout_width="match_parent"
@@ -43,7 +43,7 @@
 
         android:text="address and mobile no."
         android:fontFamily="sans-serif"
-        android:textColor="@color/textColorOnGreyBackground"
+        android:textColor="@color/textColorBlack"
         />
 
     <EditText
