@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/windowBackground"
+    android:background="@color/backgroundLogin"
     tools:layout_editor_absoluteY="81dp"
     tools:layout_editor_absoluteX="0dp">
 
@@ -17,7 +17,7 @@
         android:textAllCaps="true"
         android:textAlignment="center"
         android:background="@color/backgroundLogin"
-        android:textColor="@color/textColorOnGreyBackground"
+        android:textColor="@color/textColorBlack"
         android:fontFamily="sans-serif"
         android:layout_marginEnd="13dp"
         android:id="@+id/textView13"
@@ -34,7 +34,7 @@
     <TextView
         android:text="Enter Company Name:"
         android:fontFamily="sans-serif"
-        android:textColor="@color/textColorOnGreyBackground"
+        android:textColor="@color/textColorBlack"
         android:textSize="15sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -47,7 +47,7 @@
     <EditText
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:textColor="@color/textColorOnGreyBackground"
+        android:textColor="@color/textColorBlack"
         android:fontFamily="sans-serif"
         android:id="@+id/et_name"
         android:layout_marginTop="8dp"
@@ -60,7 +60,7 @@
 
     <TextView
         android:text="Enter PAN Number:"
-        android:textColor="@color/textColorOnGreyBackground"
+        android:textColor="@color/textColorBlack"
         android:textSize="15sp"
         android:fontFamily="sans-serif"
         android:layout_width="wrap_content"
@@ -74,7 +74,7 @@
     <EditText
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:textColor="@color/textColorOnGreyBackground"
+        android:textColor="@color/textColorBlack"
         android:id="@+id/et_pan"
         android:fontFamily="sans-serif"
         android:layout_marginTop="8dp"
@@ -87,7 +87,7 @@
 
     <TextView
         android:text="Enter Email:"
-        android:textColor="@color/textColorOnGreyBackground"
+        android:textColor="@color/textColorBlack"
         android:textSize="15sp"
         android:fontFamily="sans-serif"
         android:layout_width="0dp"
@@ -101,7 +101,7 @@
     <EditText
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:textColor="@color/textColorOnGreyBackground"
+        android:textColor="@color/textColorBlack"
         android:id="@+id/et_email"
         android:fontFamily="sans-serif"
         tools:layout_conversion_absoluteX="114dp"
@@ -118,7 +118,7 @@
 
     <TextView
         android:text="Enter Password:"
-        android:textColor="@color/textColorOnGreyBackground"
+        android:textColor="@color/textColorBlack"
         android:textSize="15sp"
         android:fontFamily="sans-serif"
         android:layout_width="wrap_content"
@@ -136,7 +136,7 @@
     <EditText
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:textColor="@color/textColorOnGreyBackground"
+        android:textColor="@color/textColorBlack"
         android:fontFamily="sans-serif"
         android:id="@+id/et_password"
         tools:layout_conversion_absoluteX="143dp"
@@ -153,7 +153,7 @@
 
     <TextView
         android:text="Enter Phone Number:"
-        android:textColor="@color/textColorOnGreyBackground"
+        android:textColor="@color/textColorBlack"
         android:textSize="15sp"
         android:fontFamily="sans-serif"
         android:layout_width="wrap_content"
@@ -172,7 +172,7 @@
         android:inputType="phone"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:textColor="@color/textColorOnGreyBackground"
+        android:textColor="@color/textColorBlack"
         android:id="@+id/et_phone"
         android:fontFamily="sans-serif"
         tools:layout_conversion_absoluteX="24dp"

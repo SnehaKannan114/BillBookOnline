@@ -104,21 +104,20 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
-    <color name="backgroundForHomePage">#b0bec5</color>
-    <color name="backgroundForOtherActivites">#cfd8dc</color>
-    <color name="backgroundLogin">#b0bec5</color>
+    <color name="backgroundForHomePage">#ffffff</color>
+    <color name="backgroundForOtherActivites">#ffffff</color>
+    <color name="backgroundLogin">#ffffff</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
-    <color name="blackTextColor">#000000</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
     <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color>
     <color name="bright_foreground_material_dark">@android:color/white</color>
     <color name="bright_foreground_material_light">@android:color/black</color>
-    <color name="buttonColor">#455a64</color>
+    <color name="buttonColor">#0000ff</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="colorAccent">#FF80AB</color>
@@ -143,7 +142,7 @@
     <color name="foreground_material_light">@android:color/black</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
-    <color name="hintTextColor">#78909c</color>
+    <color name="hintTextColor">#666699</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">#ff21272b</color>
@@ -178,7 +177,7 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <color name="textColorOnGreyBackground">#424242</color>
+    <color name="textColorBlack">#000000</color>
     <color name="textColorPrimary">#FFFFFF</color>
     <color name="windowBackground">#f0ffff</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode">
@@ -731,9 +730,9 @@
     </style>
     <style name="AppTheme" parent="Theme.AppCompat">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">#263238</item>
-        <item name="colorPrimaryDark">#263238</item>
-        <item name="colorAccent">#b0bec5</item>
+        <item name="colorPrimary">#0000e6</item>
+        <item name="colorPrimaryDark">#0000e6</item>
+        <item name="colorAccent">#3333ff</item>
     </style>
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="AppTheme.NoActionBar">
